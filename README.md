@@ -55,8 +55,6 @@ A successful clean build or device run has **not** been independently confirmed 
 
 This project is useful for talking about **testability of incomplete software**: differentiate a UI mock-up from a working feature, record blockers, define acceptance criteria, and prioritise data integrity and accessibility before release.
 
-See [Interview and QA notes](docs/INTERVIEW_PREP.md). All test cases there are proposals, not a verified execution report.
-
 ## Portfolio context
 
 An intentionally honest record of an early Android project: useful for discussing Kotlin, mobile UI navigation, feature scope, and how a QA engineer would turn an unfinished prototype into a testable product.
